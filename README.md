@@ -1,3 +1,1 @@
-# restapi-crud-node-mongodb
-
-## REST API, CRUD, MongoDB, Node.js
+# REST API, CRUD, MongoDB, Node.js
